@@ -1,0 +1,9 @@
+lida
+lida[transformers]
+torch
+streamlit
+
+streamlit
+lida  # Assuming this library provides llm and other functionalities
+python-dotenv
+Pillow
